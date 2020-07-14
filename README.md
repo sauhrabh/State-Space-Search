@@ -4,9 +4,9 @@ Project 1 for CPSC 481 summer 2020.
 
 # Setup
 
-+ Use python from a dedicated repository like `brew` or `apt`. Python 3 in macOS doesn't work with `tkinter` library.
++ Use python from a dedicated repository like `brew` or `apt`. (Default Python 3 in macOS doesn't work with `tkinter` library.)
 
-    `brew install python`
+    `brew install python` &nbsp;&nbsp;&nbsp;&nbsp;(*this installs* `python3`)
 
 + Verify python3 installation:
 
@@ -71,14 +71,15 @@ Project 1 for CPSC 481 summer 2020.
 
 + All functions ( includes additional functions like `aStarSearch`, etc.)
 
-    `python autograder.py`
+    `python autograder.py` 
 
+    (**NOTE**: Current project specification only requires q1, q2, and q3 to pass)
 
 # Team
 
 | Members                | Email                     | CWID            |
 | ---------------------- |:-------------------------:| ---------------:|
-| Loai AlFarran          | loayei@gmail.com          | 887958254                |
+| Loai AlFarran          | loayei@gmail.com          | 887958254       |
 | Jacqueline I. Cardenas | jacisac@csu.fullerton.edu | 889397782       |
 | Saurabh Mishra         | saurab.mish@gmail.com     | 887579779       |
 | Wayne Lin              | waylin@csu.fullerton.edu  | 887280121       |
