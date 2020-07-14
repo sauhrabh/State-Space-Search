@@ -78,7 +78,7 @@ Project 1 for CPSC 481 summer 2020.
 
 | Members                | Email                     | CWID            |
 | ---------------------- |:-------------------------:| ---------------:|
-| Loai AlFarran          | loayei@gmail.com          |                 |
+| Loai AlFarran          | loayei@gmail.com          | 887958254                |
 | Jacqueline I. Cardenas | jacisac@csu.fullerton.edu | 889397782       |
 | Saurabh Mishra         | saurab.mish@gmail.com     | 887579779       |
 | Wayne Lin              | waylin@csu.fullerton.edu  | 887280121       |
