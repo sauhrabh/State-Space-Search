@@ -18,7 +18,7 @@ Project 1 for CPSC 481 summer 2020.
 
     `git init`
 
-    `git remote add origin https://github.com/saura8h/Artificial-Intelligence.git`
+    `git remote add origin https://github.com/saura8h/State-Space-Search.git`
 
     `git pull origin master`
 
