@@ -10,7 +10,7 @@ Project 1 for CPSC 481 summer 2020.
 
 + Verify python3 installation:
 
-    `which python3`     # should return path like /usr/local/bin/python3
+    `which python3` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(*should return path like* `/usr/local/bin/python3`)
 
 + Install project:
 
@@ -67,6 +67,11 @@ Project 1 for CPSC 481 summer 2020.
     `python pacman.py -l mediumDottedMaze -p StayEastSearchAgent` 
     
     `python pacman.py -l mediumScaryMaze -p StayWestSearchAgent`
+
+
++ All functions ( includes additional functions like `aStarSearch`, etc.)
+
+    `python autograder.py`
 
 
 # Team
